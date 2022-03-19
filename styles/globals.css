@@ -64,6 +64,7 @@ input {
 .flower-attribute-title {
 	width: 25%;
 	float: right;
+	margin-right: 50px;
 }
 
 .flower-attribute-description {
@@ -89,4 +90,11 @@ input {
 
 .daturian {
 	height: 100%;
+}
+
+@media only screen and (max-width: 1140px) {
+  img {
+    height: auto !important;
+    border-radius: 10px;
+  }
 }
