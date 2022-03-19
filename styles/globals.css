@@ -11,10 +11,6 @@
   }
 }
 
-img {
-	height: 100%;
-}
-
 p, h1 {
 	color: #000072;
 }
@@ -76,8 +72,9 @@ input {
 }
 
 .logo {
-	width: 180px;
-	margin-top: 15px;
+	width: 150px;
+	height: 100%;
+	margin-top: 17px;
 }
 
 .menu {
